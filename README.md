@@ -29,5 +29,5 @@ streamlit run app.py
 ---
 
 ## 👩‍💻 Author
-Pratikshya Behera
+
 Pratikshya Behera
