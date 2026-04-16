@@ -1,4 +1,4 @@
-# 📄 AI Resume Parser
+# 📄 AI Resume Parser (Pinnacle_internship_task2)
 
 AI-based tool to extract key information from resume PDFs using Python and NLP.
 
